@@ -1,11 +1,24 @@
 {
-  "timestamp": "2025-04-09T19:44:10.046Z",
+  "timestamp": "2025-04-09T19:44:47.561Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 2,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section with Hebrew headline, subheadline, and booking CTA for clothing store"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of clothing services with health focus"
+    }
+  ],
   "repoName": "webis-site-chnvt-bgdym-byta-1744227826837"
 }
