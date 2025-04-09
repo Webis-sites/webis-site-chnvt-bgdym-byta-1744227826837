@@ -16,6 +16,13 @@
   --glass-background: rgba(255, 255, 255, 0.1);
   --glass-backdrop-blur: 12px;
   --animation-duration: 0.3s;
+
+  --primary-gradient: linear-gradient(135deg, #e6c43d, #588C7E);
+  --neumorphic-bg: #f0f0f3;
+  --neumorphic-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1), -8px -8px 16px rgba(255, 255, 255, 0.7);
+  --neumorphic-shadow-pressed: inset 8px 8px 16px rgba(0, 0, 0, 0.1), inset -8px -8px 16px rgba(255, 255, 255, 0.7);
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-blur: blur(10px);
 }
 
     html {
