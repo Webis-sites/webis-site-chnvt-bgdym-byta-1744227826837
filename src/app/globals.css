@@ -9,7 +9,14 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #e6c43d;
       --secondary-color: #588C7E;
-    }
+    
+  --card-shadow: 10px 10px 20px rgba(0, 0, 0, 0.05), -10px -10px 20px rgba(255, 255, 255, 0.8);
+  --card-inset-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.05), inset -5px -5px 10px rgba(255, 255, 255, 0.8);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.2);
+  --glass-background: rgba(255, 255, 255, 0.1);
+  --glass-backdrop-blur: 12px;
+  --animation-duration: 0.3s;
+}
 
     html {
       scroll-behavior: smooth;
