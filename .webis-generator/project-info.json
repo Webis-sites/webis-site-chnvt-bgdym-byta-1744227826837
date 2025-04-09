@@ -1,8 +1,36 @@
 {
   "projectName": "חנות-בגדים-ביתא-7826",
   "businessName": "חנות בגדים ביתא",
-  "created": "2025-04-09T19:43:46.909Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו חנות בגדים מוביל בתחום הבריאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-09T19:44:10.049Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-chnvt-bgdym-byta-1744227826837",
+  "formData": {
+    "businessName": "חנות בגדים ביתא",
+    "businessType": "חנות בגדים",
+    "industry": "בריאות",
+    "businessSize": "medium",
+    "description": "אנחנו חנות בגדים מוביל בתחום הבריאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#e6c43d",
+    "secondaryColor": "#588C7E",
+    "typographyStyle": "classic",
+    "animationPreference": "extensive",
+    "headline": "חנות בגדים מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": true,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": true,
+    "metaDescription": "חנות בגדים מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "חנות בגדים, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
