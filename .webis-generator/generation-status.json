@@ -1,8 +1,84 @@
 {
-  "projectName": "חנות-בגדים-ביתא-9310",
-  "businessName": "חנות בגדים ביתא",
-  "created": "2025-10-24T09:48:33.767Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-10-24T09:49:37.909Z",
+  "status": {
+    "totalComponents": 12,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "LayoutFile",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout file with metadata, fonts and global styles"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized navigation bar with business name and links to page sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline and primary CTA for the clothing store"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the store's experience and expertise"
+    },
+    {
+      "name": "FeaturedProductsSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of featured clothing products with images and details"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section highlighting the store's services like styling, alterations, etc."
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual gallery showcasing the store's fashion collections and styles"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Appointment booking system with form and calendar"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions with expandable answers"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Final call-to-action section to drive conversions"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Page footer with contact information, social links and copyright"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "social-proof",
+      "status": "pending",
+      "description": "Customer testimonials and reviews section"
+    }
+  ],
+  "repoName": "webis-site-chnvt-bgdym-byta-1744227826837"
 }
