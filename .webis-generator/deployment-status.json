@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-09T19:46:18.484Z",
+  "timestamp": "2025-10-24T09:48:33.767Z",
   "steps": {
     "planGenerated": false,
     "componentsGenerated": false,
@@ -9,6 +9,6 @@
     "deploymentStarted": false,
     "deploymentComplete": false
   },
-  "deployedUrl": "webis-site-chnvt-bgdym-byta-1744227826837-lgmfcpi2l.vercel.app",
+  "deployedUrl": null,
   "error": null
 }
