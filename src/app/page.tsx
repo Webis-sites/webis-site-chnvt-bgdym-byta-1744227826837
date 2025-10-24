@@ -10,6 +10,7 @@ import BookingSystem from '@/components/BookingSystem';
 import FAQSection from '@/components/FAQSection';
 import CTASection from '@/components/CTASection';
 import Footer from '@/components/Footer';
+import TestimonialsSection from '@/components/TestimonialsSection';
 
 export default function HomePage() {
   return (
@@ -26,6 +27,7 @@ export default function HomePage() {
         <FAQSection />
         <CTASection />
         <Footer />
+        <TestimonialsSection />
       </main>
     </>
   );
