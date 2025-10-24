@@ -1,24 +1,8 @@
 {
-  "timestamp": "2025-04-09T19:45:58.715Z",
-  "status": {
-    "totalComponents": 2,
-    "completedComponents": 2,
-    "failedComponents": 0,
-    "progress": 100
-  },
-  "components": [
-    {
-      "name": "HeroSection",
-      "type": "hero",
-      "status": "completed",
-      "description": "RTL hero section with Hebrew headline, subheadline, and booking CTA for clothing store"
-    },
-    {
-      "name": "ServicesSection",
-      "type": "services",
-      "status": "completed",
-      "description": "Showcase of clothing services with health focus"
-    }
-  ],
-  "repoName": "webis-site-chnvt-bgdym-byta-1744227826837"
+  "projectName": "חנות-בגדים-ביתא-9310",
+  "businessName": "חנות בגדים ביתא",
+  "created": "2025-10-24T09:48:33.767Z",
+  "status": "initialized",
+  "progress": 0,
+  "components": []
 }
