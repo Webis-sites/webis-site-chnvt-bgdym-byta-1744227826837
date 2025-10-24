@@ -8,6 +8,7 @@ import ServicesSection from '@/components/ServicesSection';
 import PortfolioGallery from '@/components/PortfolioGallery';
 import BookingSystem from '@/components/BookingSystem';
 import FAQSection from '@/components/FAQSection';
+import CTASection from '@/components/CTASection';
 
 export default function HomePage() {
   return (
@@ -22,6 +23,7 @@ export default function HomePage() {
         <PortfolioGallery />
         <BookingSystem />
         <FAQSection />
+        <CTASection />
       </main>
     </>
   );
