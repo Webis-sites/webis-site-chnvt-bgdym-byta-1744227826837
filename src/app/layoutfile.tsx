@@ -1,7 +1,7 @@
 'use client';
 
-import { ReactNode } from 'react';
-import { Metadata } from 'next';
+import type { ReactNode } from 'react';
+import type { Metadata } from 'next';
 import { Inter, Heebo } from 'next/font/google';
 import { motion } from 'framer-motion';
 import './globals.css';
