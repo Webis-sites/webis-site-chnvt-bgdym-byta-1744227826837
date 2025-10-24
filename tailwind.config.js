@@ -9,8 +9,8 @@
       theme: {
         extend: {
           colors: {
-            primary: '#e6c43d',
-            secondary: '#588C7E'
+            primary: '#96CEB4',
+            secondary: '#9B786F'
           },
           backgroundImage: {
             'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
