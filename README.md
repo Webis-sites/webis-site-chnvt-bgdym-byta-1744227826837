@@ -27,7 +27,7 @@ A modern website for חנות בגדים ביתא, generated with webis-generato
 
 ## Generation Information
 
-- Generated on: 4/9/2025, 10:43:46 PM
+- Generated on: 10/24/2025, 9:48:33 AM
 - Business Name: חנות בגדים ביתא
 - Business Type: חנות בגדים
-- Industry: בריאות
+- Industry: אופנה
