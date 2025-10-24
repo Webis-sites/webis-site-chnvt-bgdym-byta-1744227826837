@@ -6,6 +6,7 @@ import AboutSection from '@/components/AboutSection';
 import FeaturedProductsSection from '@/components/FeaturedProductsSection';
 import ServicesSection from '@/components/ServicesSection';
 import PortfolioGallery from '@/components/PortfolioGallery';
+import BookingSystem from '@/components/BookingSystem';
 
 export default function HomePage() {
   return (
@@ -18,6 +19,7 @@ export default function HomePage() {
         <FeaturedProductsSection />
         <ServicesSection />
         <PortfolioGallery />
+        <BookingSystem />
       </main>
     </>
   );
