@@ -12,6 +12,9 @@
     
   --font-heebo: var(--font-heebo);
   --font-inter: var(--font-inter);
+
+  --font-size-base: 1rem;
+  --rtl-direction: rtl;
 }
 
     html {
